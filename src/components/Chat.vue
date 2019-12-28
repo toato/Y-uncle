@@ -73,7 +73,7 @@ export default {
                 this.msgList.push({
                     "type":1,
                     "msg":res.data.content,
-                    "userName":"小袁"
+                    "userName":"小Y"
                 });
                 
             })
